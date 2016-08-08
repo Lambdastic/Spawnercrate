@@ -1,0 +1,28 @@
+Spawners:
+  SPIDER:
+    Percent: 50
+    Color: GRAY
+  ZOMBIE:
+    Percent: 50
+    Color: GRAY
+  SKELETON:
+    Percent: 40
+    Color: GRAY
+  ENDERMAN:
+    Percent: 25
+    Color: GRAY
+  WITCH:
+    Percent: 20
+    Color: GRAY
+  CREEPER:
+    Percent: 20
+    Color: GRAY
+  BLAZE:
+    Percent: 10
+    Color: RED
+  GHAST:
+    Percent: 8
+    Color: RED
+  IRON_GOLEM:
+    Percent: 5
+    Color: RED

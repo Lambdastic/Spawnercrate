@@ -1,0 +1,5 @@
+edu\vt\alic\spawnercrate\SpawnerCrate.class
+edu\vt\alic\spawnercrate\commands\SpawnerCrateCommand.class
+edu\vt\alic\spawnercrate\listeners\SpawnerPlaceListener.class
+edu\vt\alic\spawnercrate\listeners\CrateOpenListener.class
+edu\vt\alic\spawnercrate\commands\AbstractCommand.class
